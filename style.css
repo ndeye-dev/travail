@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(80, 78, 78);
+}
+h1{
+    font-size: 130px;
+    color: #fff;
+    text-align: center;
+    letter-spacing: normal;
+    text-shadow : 4px 4px rgb(255, 0, 136) ;
+}
+@media screen  and (max-width: 768PX) {
+
+    h1{
+        font-size: 50px;
+    }
+}
